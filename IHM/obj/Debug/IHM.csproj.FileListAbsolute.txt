@@ -1,0 +1,6 @@
+C:\Users\OUMA\Desktop\ASP\IHM\IHM\bin\IHM.dll.config
+C:\Users\OUMA\Desktop\ASP\IHM\IHM\bin\IHM.dll
+C:\Users\OUMA\Desktop\ASP\IHM\IHM\bin\IHM.pdb
+C:\Users\OUMA\Desktop\ASP\IHM\IHM\obj\Debug\IHM.csprojResolveAssemblyReference.cache
+C:\Users\OUMA\Desktop\ASP\IHM\IHM\obj\Debug\IHM.dll
+C:\Users\OUMA\Desktop\ASP\IHM\IHM\obj\Debug\IHM.pdb
